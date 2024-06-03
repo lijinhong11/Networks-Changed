@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.sefiraat</groupId>
     <artifactId>Networks-Changed</artifactId>
-    <version>1.2.0</version>
+    <version>1.2.1</version>
 
     <distributionManagement>
         <repository>
@@ -136,7 +136,7 @@
         <dependency>
             <groupId>com.github.StarWishsama</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>54c1294732</version>
+            <version>2024.3</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
